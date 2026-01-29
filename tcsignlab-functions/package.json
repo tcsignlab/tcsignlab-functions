@@ -1,0 +1,14 @@
+{
+  "name": "tcsignlab-website",
+  "version": "1.0.0",
+  "description": "TC SignLab website with Square payments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "square": "^39.0.0"
+  },
+  "author": "TC SignLab",
+  "license": "MIT"
+}
